@@ -14,11 +14,11 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
-    url:          /book
+  - name:         技术
+    url:          /technology
     external:     false
-  - name:         旅游
-    url:          /road
+  - name:         生活
+    url:          /life
     external:     false
   - name:         归档
     url:          /archives
