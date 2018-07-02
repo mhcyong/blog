@@ -841,20 +841,26 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 
 .post-list-item-container .item-label {
 	position: relative;
-	height: 130px;
+	height: 100px;
 	padding: 25px 20px 40px;
 	background-color: #fff
 }
 
+.item-title {
+    position: relative;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .post-list-item-container .item-label .item-title a {
 	font-size: 17px;
-	line-height: 17px;
-	word-break: break-all;
-	color: #313131;
-	word-break:keep-all;
-	white-space:nowrap;
-	overflow:hidden;
-	text-overflow:ellipsis;
+    line-height: 17px;
+    color: #313131;
+    vertical-align: middle;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .post-list-item-container .item-label .item-meta {
