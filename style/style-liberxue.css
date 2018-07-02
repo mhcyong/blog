@@ -722,6 +722,8 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	animation-duration: .5s
 }
 
+.liberxue-title{background: rgba(227, 234, 241, 0.3);font-weight: 200;padding: 4px 13px;}
+
 .index-page {
 	padding: 120px 20px 0
 }
@@ -848,7 +850,11 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	font-size: 17px;
 	line-height: 17px;
 	word-break: break-all;
-	color: #313131
+	color: #313131;
+	word-break:keep-all;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
 }
 
 .post-list-item-container .item-label .item-meta {
