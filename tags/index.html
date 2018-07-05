@@ -22,13 +22,13 @@ description: "标签分类的文章"
      <div id="{{ this_word }}" class="post-lists" id="{{ this_word }}">
     <div class="categorys-item">
          <div class="categorys-title">
-		  {{ this_word }} : {{ site.tags[this_word].size }}
+		  {{ this_word }} : {{ site.tags[this_word].size }} 个
 		 </div>
 			{% for post in site.tags[this_word] %}
 			{% if post.title != null %}    			
-				<li style="padding-left:80px"><a href="{{ site.url }}{{ post.url }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>					 
-          {% endif %}
-		  {% endfor %}
+				<li style="padding-left:100px"><a href="{{ site.url }}{{ post.url }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>				 
+            {% endif %}
+		    {% endfor %}
    	</div>
 	</div>
 
