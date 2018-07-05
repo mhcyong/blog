@@ -2,7 +2,7 @@
 layout: blog
 funny: true
 background: green
-background-image: 抖音上天：考前忙拍抖音，女生考试迟到追悔莫及
+background-image: https://obdr74yw6.qnssl.com/20180705161926.jpg
 date: 2018-05-15 10:01
 title: 抖音上天：考前忙拍抖音，女生考试迟到追悔莫及
 category: 有趣
@@ -20,5 +20,5 @@ tags:
 不信就明年看，又是这两张图片，换了一个原因。
 
 
-  [1]: http://wx1.sinaimg.cn/large/0257a024ly1fs2hivm0xfj20ch0m8ta4.jpg
+  [1]: https://ws1.sinaimg.cn/large/c5095e03gy1fsz21rutt6j20ch0m875p.jpg
   [2]: https://wx1.sinaimg.cn/mw1024/0257a024ly1fs2hiw7vovj20ci0m8tad.jpg
