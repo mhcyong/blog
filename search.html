@@ -1,31 +1,16 @@
 <!DOCTYPE>
 <html lang="zh-cn" data-scribe-reduced-action-queue="true">
   <head>
-    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>404 - {{ site.title }}</title>
+  <title>搜索 - 胖蒜</title>
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
-  <meta name="twitter:keywords"  content="{{ page.title }} - {{ site.title }}" property='og:description' />
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
-  <meta name="og:keywords"  content="{{ page.title }} - {{ site.title }}|{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
   <meta name="theme-Jekyll by liberxue" content="#eb5055"> 
-  <link rel="icon" type="image/png" href="{{ site.url }}/style/favicons/favicon.ico" />
-  <link href="{{ site.url }}/style/favicons/favicon.ico" rel="shortcut icon" type="image/png">
-  <link rel="canonical" href="{{ site.url }}/">
-  <link rel="alternate" type="application/rss+xml" title="Liberxue" href="{{ site.url }}/feed.xml">
   <meta charset="UTF-8">  
   <link rel="manifest" href="/manifest.json">
-  <link rel="shortcut icon" href="{{ site.url }}/style/favicons/favicon.ico" type="image/x-icon">
-  <meta name="keywords"  content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
   <meta name="description" content="nothing is more practicla than a good theory" />
   <link href="https://cdn.bootcss.com/highlight.js/9.10.0/styles/xcode.min.css" rel="stylesheet">
-  <link href="{{ site.url }}/style/style-liberxue.css" rel="stylesheet">
-  <meta content='{{ site.url }}' property='og:url' />
-  <meta content="{{ site.description }}" property='og:description' />
   <meta content="blog" property="og:type" />
        <style>
         body{
@@ -143,12 +128,8 @@
     <body>
 <!-- jQuery -->
 <script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
-<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
-      opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
-    <input style="    background: rgba(0,0,0,0.5);
-    border: 2px solid #02ccba;
-color: #fff;box-shadow: 8px 10px 20px 0 rgba(46,61,73,.15);text-align: center;line-height: 40px;font-size: 12px;font-weight: bold;
-z-index:99;width: 450px;border-radius: 50px;height: 50px;left:50%;/*FF IE7*/top: 50%;/*FF IE7*/
+<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px; opacity: 0.95; background-color: #111111; z-index: 9999;">
+    <input style="    background: rgba(0,0,0,0.5); border: 2px solid #02ccba; color: #fff;box-shadow: 8px 10px 20px 0 rgba(46,61,73,.15);text-align: center;line-height: 40px;font-size: 12px;font-weight: bold; z-index:99;width: 450px;border-radius: 50px;height: 50px;left:50%;/*FF IE7*/top: 50%;/*FF IE7*/
 margin-left:-150px!important;/*FF IE7 该值为本身宽的一半 */margin-top:-60px!important;/*FF IE7 该值为本身高的一半*/
 margin-top:0px;position:fixed!important;/*FF IE7*/
 position:absolute;/*IE6*/"type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
