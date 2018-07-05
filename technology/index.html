@@ -58,11 +58,11 @@ description: "分享正在使用或者觉得有价值的资料"
 		<!-- navigation holder -->
       <div class="holder">
       </div>
-	<ul class="itemContainer">
+	<div class="itemContainer">
 
 	  {% for posts in site.posts %}
 	   {% if posts.technology%}
-		<li class="post-list-item">
+		<div class="post-list-item">
 			<div class="post-list-item-container">
 				 <div class="item-thumb  bg-{{posts.background }}" style="background-image:url('{{posts.background-image }}');"></div>
 				<a href="{{ posts.url }}">
