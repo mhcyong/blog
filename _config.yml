@@ -9,7 +9,6 @@ share:            true
 # 分页
 paginate: 15
 paginate_path: "page:num"
-paginatepath: ['technology/page/:num','life/page/:num']
 gems: [jekyll-paginate]
 links:
   - name:         首页
