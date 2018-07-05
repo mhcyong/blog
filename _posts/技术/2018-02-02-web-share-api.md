@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/02/514767503.jpg
 date: 2018-02-02 23:07
 title: QQ空间、新浪微博、腾讯微博等一键分享API链接代码
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - API
 - 代码

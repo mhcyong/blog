@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/01/4107674946.jpg
 date: 2018-01-07 19:10
 title: 最近流行晒身份证名字，各路大神都被炸出来了……
 category: 有趣
-cslug: funny
+ascription: funny
 tags:
 - 身份证
 - 搞笑

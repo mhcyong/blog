@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/excel20180527171534.png
 date: 2018-05-27 17:12
 title: 超实用！Excel20秒改好证件照底色
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 软件

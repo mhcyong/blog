@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/image/kTi9qN8jgjR69nGeakwTrnL4lz8L
 date: 2018-01-08 21:44
 title: 解决vultr使用Snapshot快照恢复后没有root密码
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - linux
 - VPS

@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/0078N2Nmgy1fraygpshsbj30gq0axdfw.j
 date: 2018-05-15 10:01
 title: 文字识别OCR工具：天若OCR（PC）
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 软件

@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/coding.jpg
 date: 2018-01-09 15:54
 title: 使用Git和Coding平台
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - Git
 - 代码

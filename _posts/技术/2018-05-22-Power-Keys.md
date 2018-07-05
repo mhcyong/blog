@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/40297267-cfc3731e-5d11-11e8-9648-e
 date: 2018-05-22 08:27
 title: Power Keys - 让你的码字效率突破极限！
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 软件

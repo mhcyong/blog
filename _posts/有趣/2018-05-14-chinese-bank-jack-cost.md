@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/_20180514112120.jpg
 date: 2018-05-14 11:24
 title: 中国人“抢银行”究竟要多少成本？！
 category: 有趣
-cslug: funny
+ascription: funny
 tags:
 - 搞笑
 - 银行

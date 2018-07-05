@@ -24,7 +24,7 @@ description: "分享那些年走过的地方去过路过的美景"
 						<div class="item-meta-ico bg-ico-book" style="background: url('../style/images/bg-ico.png') no-repeat;background-size: 40px auto;"></div>
 						 <div class="item-meta-cat">
 							 <a href="/">{{ posts.category }}</a>
-							 <a href="/archives#{{ posts.date | date: "%Y"}}">{{ posts.date | date: "%F %H:%M:%S "}}</a>
+							 <a href="/archives#{{ posts.date | date: "%Y"}}" title="访问 {{ posts.date | date: "%Y"}}" data-hover="{{ posts.date | date: "%F %H:%M"}}">{{ posts.date | date: "%F %H:%M"}}</a>
 						</div>
 						</div>
 					</div>

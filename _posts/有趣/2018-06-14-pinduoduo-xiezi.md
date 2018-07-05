@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/QQ20180614201226.jpg
 date: 2018-06-14 20:12
 title: 拼多多：9.9元包邮的煤老板专用鞋
 category: 有趣
-cslug: funny
+ascription: funny
 tags:
 - 搞笑
 - 网购

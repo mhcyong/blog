@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1510826793.jpg
 date: 2018-01-09 15:56
 title: 如何安装 Composer（国内镜像）
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - Lravel
 - PHP

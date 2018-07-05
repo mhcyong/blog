@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/20180617212419.gif
 date: 2018-06-17 21:15
 title: 当今社会的万恶毒瘤——等待
 category: 有趣
-cslug: funny
+ascription: funny
 tags:
 - 社会
 - 思考

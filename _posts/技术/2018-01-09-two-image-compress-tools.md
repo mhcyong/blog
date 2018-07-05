@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1507211273.jpg
 date: 2018-01-09 16:02
 title: 两款实用的图片处理工具
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 图片

@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/aiwenjian.png
 date: 2018-02-05 19:17
 title: 爱文件-在线免费下载百度文库文件
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 软件

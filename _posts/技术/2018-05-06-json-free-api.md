@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/Snipaste_2018-05-06_10-15-28.png
 date: 2018-01-07 19:10
 title: 整理的一些JSON格式免费接口API 
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 接口
 - 开发

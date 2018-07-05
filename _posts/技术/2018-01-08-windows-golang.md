@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/image/x3msBA7Z5t0LUaWaJoUKvArQibFV
 date: 2018-01-08 18:14
 title: Window10  64bit下安装Golang语言，Git，gvt，Echo框架
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - Golang
 - 代码

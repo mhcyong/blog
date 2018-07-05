@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/laravel5.jpg
 date: 2018-01-09 15:54
 title: Ubuntu下创建Laravel项目
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - PHP
 - Laravel

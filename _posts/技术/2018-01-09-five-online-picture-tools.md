@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1507214695.jpg
 date: 2018-01-09 15:54
 title: 五款非常强大的在线作图工具
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - SSL
 - http

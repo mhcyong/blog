@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/02/2980090842.jpg
 date: 2018-02-26 18:34
 title: 如何免费申请商家收钱码?
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 支付宝

@@ -2,7 +2,7 @@
 layout: blog
 funny: true
 category: 有趣
-cslug: funny
+ascription: funny
 title:  这幅父子漫画，刷爆了朋友圈！
 date:   2018-01-09 15:53
 background-image: https://obdr74yw6.qnssl.com/1505920390.jpg

@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/algolia.jpg
 date: 2018-01-09 16:35
 title: 在 Laravel 5.5 中使用官方扩展包 Scout + Algolia 实现全文搜索
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - Laravel
 - 代码

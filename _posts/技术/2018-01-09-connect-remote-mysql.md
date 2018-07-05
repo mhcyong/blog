@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/mysql.jpg
 date: 2018-01-09 15:54
 title: 远程连接服务器的MySQL数据库
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - mysql
 - 数据库

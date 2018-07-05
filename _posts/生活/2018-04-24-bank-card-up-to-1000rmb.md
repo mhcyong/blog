@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/20180424231858.png
 date: 2018-04-24 23:17
 title: 银联卡小额免密免签单笔限额将提升至1000元
 category: 生活
-cslug: life
+ascription: life
 tags:
 - 银行
 - 支付宝

@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/01/3571228382.png
 date: 2018-01-22 10:24
 title: 推荐一个看图的软件—QuickViewer
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - 工具
 - 软件

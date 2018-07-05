@@ -6,7 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/02/2813439775.png
 date: 2018-03-02 16:46
 title: 使用coding.net免费部署自己的PHP+Mysql网站并实现自定义域名和https服务
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - PHP
 - Typecho

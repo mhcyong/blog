@@ -7,7 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/follow-fixed.jpg
 date: 2018-01-09 16:36
 title: 提高浏览量的特效：侧栏跟随滚动条
 category: 技术
-cslug: technology
+ascription: technology
 tags:
 - CSS
 - 代码
