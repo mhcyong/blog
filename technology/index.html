@@ -17,7 +17,7 @@ $(function(){
 	//回调函数在用户每次点击分页链接的时候执行
 	//参数page_index{int整型}表示当前的索引页
 	var initPagination = function() {
-		var num_entries = $("#hiddenresult div.post-list-item").length;
+		var num_entries = $("#hiddenresult div.result").length;
 		// 创建分页
 		$("#Pagination").pagination(num_entries, {
 			num_edge_entries: 1, //边缘页数
@@ -28,7 +28,7 @@ $(function(){
 	 }();
 	 
 	function pageselectCallback(page_index, jq){
-		var new_content = $("#hiddenresult div.post-list-item:eq("+page_index+")").clone();
+		var new_content = $("#hiddenresult div.result:eq("+page_index+")").clone();
 		$("#Searchresult").empty().append(new_content); //装载对应分页的内容
 		return false;
 	}
@@ -44,7 +44,7 @@ $(function(){
 
 	  {% for posts in site.posts %}
 	   {% if posts.technology%}
-		<div class="post-list-item">
+		<div class="result">
 			<div class="post-list-item-container">
 				 <div class="item-thumb  bg-{{posts.background }}" style="background-image:url('{{posts.background-image }}');"></div>
 				<a href="{{ posts.url }}">
