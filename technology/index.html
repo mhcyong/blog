@@ -2,45 +2,63 @@
 title: 技术资料
 description: "分享正在使用或者觉得有价值的资料"
 ---
-<link rel="stylesheet" href="{{ site.url }}/lib/pagination.css" />
-<style type="text/css">
-body{font-size:84%; color:#333333; line-height:1.4;}
-a{color:#34538b;}
-#Searchresult{width:300px; height:100px; padding:20px; background:#f0f3f9;}
-</style>
-<script type="text/javascript" src="{{ site.url }}/lib/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.url }}/lib/jquery.pagination.js"></script>
-<script type="text/javascript">
-$(function(){
-	//这是一个非常简单的demo实例，让列表元素分页显示
-	//回调函数的作用是显示对应分页的列表项内容
-	//回调函数在用户每次点击分页链接的时候执行
-	//参数page_index{int整型}表示当前的索引页
-	var initPagination = function() {
-		var num_entries = $("#hiddenresult div.result").length;
-		// 创建分页
-		$("#Pagination").pagination(num_entries, {
-			num_edge_entries: 1, //边缘页数
-			num_display_entries: 4, //主体页数
-			callback: pageselectCallback,
-			items_per_page:12 //每页显示1项
-		});
-	 }();
-	 
-	function pageselectCallback(page_index, jq){
-		var new_content = $("#hiddenresult div.result:eq("+page_index+")").clone();
-		$("#Searchresult").empty().append(new_content); //装载对应分页的内容
-		return false;
-	}
-});
-</script>
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/jPages.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/animate.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/github.css">
+  <script src="https://libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/js/highlight.pack.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/js/tabifier.js"></script>
+  <script src="{{ site.url }}/js/js.js"></script>
+  <script src="{{ site.url }}/js/jPages.js"></script>
+
+  <script>
+  /* when document is ready */
+  $(function(){
+    /* initiate plugin */
+    $("div.holder").jPages({
+      containerID : "itemContainer",
+      pause       : 4000,
+      clickStop   : true
+    });
+  });
+  </script>
+  <style type="text/css">
+  .holder {
+    margin: 15px 0;
+  }
+  .holder a {
+    font-size: 12px;
+    cursor: pointer;
+    margin: 0 5px;
+    color: #333;
+  }
+  .holder a:hover {
+    background-color: #222;
+    color: #fff;
+  }
+  .holder a.jp-previous { margin-right: 15px; }
+  .holder a.jp-next { margin-left: 15px; }
+  .holder a.jp-current, a.jp-current:hover {
+    color: #FF4242;
+    font-weight: bold;
+  }
+  .holder a.jp-disabled, a.jp-disabled:hover {
+    color: #bbb;
+  }
+  .holder a.jp-current, a.jp-current:hover,
+  .holder a.jp-disabled, a.jp-disabled:hover {
+    cursor: default;
+    background: none;
+  }
+  .holder span { margin: 0 5px; }
+  </style>
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
-	<div class="post-lists-body">
-	<div id="Pagination" class="pagination"><!-- 这里显示分页 --></div>
-	<div id="Searchresult">分页初始化完成后这里的内容会被替换。</div>
-	<div id="hiddenresult" style="display:none;">
-
+		<!-- navigation holder -->
+      <div class="holder">
+      </div>
+	<div class="itemContainer">
 
 	  {% for posts in site.posts %}
 	   {% if posts.technology%}
