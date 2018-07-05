@@ -13,7 +13,7 @@ description: "分享正在使用或者觉得有价值的资料"
 				 <div class="item-thumb  bg-{{posts.background }}" style="background-image:url('{{posts.background-image }}');"></div>
 				<a href="{{ posts.url }}">
 					 <div class="item-desc">
-						<p>{{ posts.content | strip_html | strip_newlines | truncate: 100 }}</p>
+						<p>{{ posts.content | strip_html | strip_newlines | truncate: 75 }}</p>
 					</div>
 				</a>
 				<div class="item-slant reverse-slant  bg-{{ posts.background }}"></div>
@@ -23,7 +23,7 @@ description: "分享正在使用或者觉得有价值的资料"
 					<div class="item-meta clearfix">
 					  <div class="item-meta-ico bg-ico-book" style="background: url('../style/images/bg-ico.png') no-repeat;background-size: 40px auto;"></div>
 					  <div class="item-meta-cat">
-						 <a href="/" title="访问 {{ posts.category }}"  data-hover="{{ posts.category }}">{{ posts.category }}</a>
+						 <a href="/technology" title="访问 {{ posts.category }}"  data-hover="{{ posts.category }}">{{ posts.category }}</a>
 						 <a href="/archives#{{ posts.date | date: "%Y"}}" title="访问 {{ posts.date | date: "%Y"}}" data-hover="{{ posts.date | date: "%F %H:%M"}}">{{ posts.date | date: "%F %H:%M"}}</a>
 					  </div>
 					</div>

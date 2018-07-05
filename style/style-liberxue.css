@@ -33,6 +33,11 @@ html {
 	background-color: #eb5055
 }
 
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
 body {
 	font-family: -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
 	font-size: 14px;
