@@ -2,64 +2,10 @@
 title: 技术资料
 description: "分享正在使用或者觉得有价值的资料"
 ---
-  <link rel="stylesheet" href="{{ site.url }}/css/style.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/jPages.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/animate.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/github.css">
-  <script src="https://libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/js/highlight.pack.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/js/tabifier.js"></script>
-  <script src="{{ site.url }}/js/js.js"></script>
-  <script src="{{ site.url }}/js/jPages.js"></script>
 
-  <script>
-  /* when document is ready */
-  $(function(){
-    /* initiate plugin */
-    $("div.holder").jPages({
-      containerID : "itemContainer",
-      pause       : 4000,
-      clickStop   : true
-    });
-  });
-  </script>
-  <style type="text/css">
-  .holder {
-    margin: 15px 0;
-  }
-  .holder a {
-    font-size: 12px;
-    cursor: pointer;
-    margin: 0 5px;
-    color: #333;
-  }
-  .holder a:hover {
-    background-color: #222;
-    color: #fff;
-  }
-  .holder a.jp-previous { margin-right: 15px; }
-  .holder a.jp-next { margin-left: 15px; }
-  .holder a.jp-current, a.jp-current:hover {
-    color: #FF4242;
-    font-weight: bold;
-  }
-  .holder a.jp-disabled, a.jp-disabled:hover {
-    color: #bbb;
-  }
-  .holder a.jp-current, a.jp-current:hover,
-  .holder a.jp-disabled, a.jp-disabled:hover {
-    cursor: default;
-    background: none;
-  }
-  .holder span { margin: 0 5px; }
-  </style>
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
-		<!-- navigation holder -->
-      <div class="holder">
-      </div>
-	<div class="itemContainer">
-
+	<div class="post-lists-body">
 	  {% for posts in site.posts %}
 	   {% if posts.technology%}
 		<div class="post-list-item">
@@ -86,11 +32,6 @@ description: "分享正在使用或者觉得有价值的资料"
 	    </div>
 		{% endif %}
        {% endfor %}
-	   
-	</div>
-	 <!-- navigation holder -->
-      <div class="holder">
-      </div>
 	</div>
 	</div>
   {% include pagination.html %}
