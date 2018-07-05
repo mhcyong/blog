@@ -25,21 +25,8 @@ description: "标签分类的文章"
 		  {{ this_word }} : {{ site.tags[this_word].size }}
 		 </div>
 			{% for post in site.tags[this_word] %}
-			{% if post.title != null %}
-    			<div class="post-list-item" >
-					<div class="post-list-item-container">
-						<div class="item-label">
-							<div class="item-title" >
-								<a href="{{ site.url }}{{ post.url }}" data-hover="{{ post.title }}">{{ post.title }}</a>
-							</div>
-							<div class="item-meta clearfix">
-								<div class="item-meta-date">
-								 <a href="/archives#{{ posts.date | date: "%Y"}}" title="访问 {{ posts.date | date: "%Y"}}" data-hover="{{ posts.date | date: "%F %H:%M"}}">{{ posts.date | date: "%F %H:%M"}}</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>  
+			{% if post.title != null %}    			
+				<li><a href="{{ site.url }}{{ post.url }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>					 
           {% endif %}
 		  {% endfor %}
    	</div>
