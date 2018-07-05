@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: page
 title: 关于
 description: "关于本站"
-data: 2018-01-05 09:19:11
+date: 2018-01-01 15:51
 tags: 
 - 简述
 - 关于
