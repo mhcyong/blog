@@ -5,6 +5,7 @@ background: yellow
 background-image: https://obdr74yw6.qnssl.com/1505884721.jpg
 date: 2018-01-09 15:49
 category: 生活
+cslug: life
 title: 容器，还可以这么理解。
 tags:
 - 学习

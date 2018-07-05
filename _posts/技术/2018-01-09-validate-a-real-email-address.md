@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/php.jpg
 date: 2018-01-09 16:18
 title: 真正验证一个邮件地址的有效性
 category: 技术
+cslug: technology
 tags:
 - PHP
 - 代码

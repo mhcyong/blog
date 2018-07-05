@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1506928499.jpg
 date: 2018-01-09 16:20
 title: 使用命令行在ubuntu下安装mysql可视化工具MySQL-workbench
 category: 技术
+cslug: technology
 tags:
 - mysql
 - 工具

@@ -7,6 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/algolia.jpg
 date: 2018-01-09 16:37
 title: Laravel使用algolia的时，只添加一张表的部分字段到索引
 category: 技术
+cslug: technology
 tags:
 - Laravel
 - 代码

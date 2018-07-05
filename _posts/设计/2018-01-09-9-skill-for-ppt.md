@@ -1,11 +1,12 @@
 ---
 layout: blog
-technology: true
+design: true
 background: red
 background-image: https://obdr74yw6.qnssl.com/1507511689.jpg
 date: 2018-01-09 15:51
 title: 9个神技巧带你玩转PPT
 category: 设计
+cslug: design
 tags:
 - PPT
 - 技巧

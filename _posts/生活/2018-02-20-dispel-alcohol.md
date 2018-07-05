@@ -1,11 +1,12 @@
 ---
 layout: blog
-technology: true
+life: true
 background: yellow
 background-image: https://obdr74yw6.qnssl.com/2018/02/83305954.jpg
 date: 2018-02-20 15:35
 title: 解酒的原理及最快的解酒方法是什么？
 category: 生活
+cslug: life
 tags:
 - 工具
 - 代码

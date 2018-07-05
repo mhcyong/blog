@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/image/hPrzmFDVtLzQUukpqMakDUTKNs3k
 date: 2018-01-08 22:58
 title: 教你在 Ubuntu 16.04 LTS 下安装Pycharm
 category: 技术
+cslug: technology
 tags:
 - linux
 - Python

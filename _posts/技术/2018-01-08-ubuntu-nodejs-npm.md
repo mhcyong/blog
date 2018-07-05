@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/nodejs-npm.png
 date: 2018-01-08 18:12
 title: Ubuntu下安装nodejs，npm
 category: 技术
+cslug: technology
 tags:
 - nodejs
 - linux

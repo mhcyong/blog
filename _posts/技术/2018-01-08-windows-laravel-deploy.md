@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/image/FEnRv5j8yFuhN57kGtdQBCc69YMg
 date: 2018-01-08 18:16
 title: Windows Xampp 安装 Laravel及相关工具
 category: 技术
+cslug: technology
 tags:
 - PHP
 - Lavarel

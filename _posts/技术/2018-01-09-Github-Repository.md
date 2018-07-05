@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/github.jpg
 date: 2018-01-09 15:54
 title: Github资源 Repository 整理
 category: 技术
+cslug: technology
 tags:
 - Github
 - 资源

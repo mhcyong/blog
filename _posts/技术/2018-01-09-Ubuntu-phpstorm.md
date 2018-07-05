@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1506928035.jpg
 date: 2018-01-09 16:21
 title: Ubuntu下安装PhpStorm软件
 category: 技术
+cslug: technology
 tags:
 - PHP
 - 软件

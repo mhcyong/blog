@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/shadowsocks.jpg
 date: 2018-01-09 16:27
 title: Ubuntu下服务器端shadowsocks-libev一键安装脚本
 category: 技术
+cslug: technology
 tags:
 - linux
 - 代码

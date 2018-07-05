@@ -1,11 +1,12 @@
 ---
 layout: blog
-technology: true
+life: true
 background: blue
 background-image: https://obdr74yw6.qnssl.com/gongxiangdanche.jpg
 date: 2018-05-15 10:01
 title: 小鸣单车进入破产清算程序
 category: 生活
+cslug: life
 tags:
 - 破产
 - 单车

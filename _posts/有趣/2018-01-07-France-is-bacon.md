@@ -2,6 +2,7 @@
 layout: blog
 funny: true
 category: 有趣
+cslug: funny
 title:  知识就是力量，法国就是醃肉
 date:   2018-01-07 19:19
 background-image: https://obdr74yw6.qnssl.com/FtPg24DgpHZCjVqlh0rPAZmSoyLc

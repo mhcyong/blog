@@ -7,6 +7,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/03/1324646771.png
 date: 2018-03-02 08:34
 title: WeChatTweak – 支持「防撤回」与「多开」的微信 macOS 客户端
 category: 技术
+cslug: technology
 tags:
 - macOS
 - 微信

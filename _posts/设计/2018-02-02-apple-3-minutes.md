@@ -1,12 +1,13 @@
 ---
 layout: blog
 istop: true
-technology: true
+design: true
 background: green
 background-image: https://obdr74yw6.qnssl.com/2018/02/2178810410.jpeg
 date: 2018-02-02 14:06
 title: 《三分钟》——用 iPhone X 拍出的苹果 2018 年新春广告
 category: 技术
+cslug: design
 tags:
 - iPhone
 - 广告

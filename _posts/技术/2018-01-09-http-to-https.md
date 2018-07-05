@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1505924714.jpg
 date: 2018-01-09 15:54
 title: http跳转到https，并优化SSL
 category: 技术
+cslug: technology
 tags:
 - SSL
 - https

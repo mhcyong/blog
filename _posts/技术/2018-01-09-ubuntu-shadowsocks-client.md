@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/shadowsocks.jpg
 date: 2018-01-09 16:28
 title: Ubuntu下客户端配置Shadowsocks
 category: 技术
+cslug: technology
 tags:
 - 软件
 - linux

@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/php.jpg
 date: 2018-01-09 16:19
 title: Ubuntu下安装并配置PHP7+MySQL+Nginx+SSL网站环境
 category: 技术
+cslug: technology
 tags:
 - SSL
 - https

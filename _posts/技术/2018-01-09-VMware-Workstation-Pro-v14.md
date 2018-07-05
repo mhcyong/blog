@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/1506760908.jpg
 date: 2018-01-09 16:22
 title: VMware Workstation Pro v14.0下载及永久激活密钥
 category: 技术
+cslug: technology
 tags:
 - 工具
 - 软件

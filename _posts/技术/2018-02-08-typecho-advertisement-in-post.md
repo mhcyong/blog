@@ -6,6 +6,7 @@ background-image: https://obdr74yw6.qnssl.com/2018/02/401486379.jpg
 date: 2018-02-08 15:55
 title: typecho在文章中插入广告
 category: 技术
+cslug: technology
 tags:
 - PHP
 - Typecho
