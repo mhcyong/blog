@@ -14,11 +14,8 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         技术
-    url:          /technology
-    external:     false
-  - name:         生活
-    url:          /life
+  - name:         搜索
+    url:          /search.html
     external:     false
   - name:         归档
     url:          /archives
