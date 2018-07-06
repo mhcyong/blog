@@ -16,7 +16,7 @@ description: "标签分类的文章"
 		  </div>	
 	</div>		
 </div>	
-<div class="main-content archive-page" >
+<div class="main-content archive-list" >
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 	{% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
     <div id="{{ this_word }}" class="post-lists" id="{{ this_word }}">
