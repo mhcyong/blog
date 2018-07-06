@@ -696,7 +696,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 
 .navbar-search form .search-box ul {
 	font-size: 14px;
-	line-height: 50px;
+	line-height: 30px;
 	color: #eb5055;
 	background-color: #fff;
 	z-index: 9999;
