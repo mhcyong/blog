@@ -56,8 +56,8 @@
 <div class="post-header"> 
 	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	<div class="post-data">  
-		 <time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">发布时间：{{ page.date | date: "%F %H:%M:%S"}}</time>
-		 <a href="/{{ page.ascription }}" title="访问 {{ page.category }}" data-hover="博客分类: {{ page.category }}"> 博客分类: {{ page.category }}</a>
+		 <time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">发布时间：{{ page.date | date: "%F %H:%M:%S"}}</time>&nbsp;&nbsp;&nbsp;&nbsp;
+		 <a href="/{{ page.ascription }}" title="访问 {{ page.category }}" data-hover="博客分类: {{ page.category }}"> 文章分类: {{ page.category }}</a>
 	 </div>
  </div>
  <div id="post-content" class="post-content" itemprop="articleBody"> 
