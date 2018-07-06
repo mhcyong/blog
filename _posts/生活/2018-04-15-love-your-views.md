@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 life: true
