@@ -1380,6 +1380,34 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	color: #eb5055
 }
 
+.archive-list .post-list-item-container {
+	border: 1px solid rgba(184,197,214,.2);
+	border-radius: 3px;
+	background: #fff;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,.04);
+	box-shadow: 0 1px 4px rgba(0,0,0,.04)
+}
+
+.archive-list .post-list-item-container .item-label {
+	height: 95px;
+	background: #fff
+}
+
+.archive-list .post-list-item-container .item-label .item-title a {
+	font-size: 14px;
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	color: #313131
+}
+
+.archive-list .post-list-item-container .item-label .item-meta .item-meta-date {
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: #5f5f5f
+}
+
 .common-page {
 	padding: 120px 20px 0
 }
