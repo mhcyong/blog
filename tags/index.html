@@ -10,7 +10,7 @@ description: "标签分类的文章"
 		  <div class="post-tags">
 		  {% for item in (0..site.tags.size)  %}{% unless forloop.last %}
 			{% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-					<a href="#{{ this_word }}">{{ this_word }} <span>({{ site.tags[this_word].size }})个</span></a>
+					<a href="#{{ this_word }}">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>
 			{% endunless %}
 		  {% endfor %}					
 		  </div>	
