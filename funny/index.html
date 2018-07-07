@@ -1,0 +1,36 @@
+---
+title: 新鲜有趣
+description: "分享那些年新鲜有趣的事情"
+---
+
+<div class="main-content index-page clearfix ">
+	<div class="post-lists">
+		<div class="post-lists-body">
+		  {% for posts in site.posts %}
+			   {% if posts.funny %}
+				<div class="post-list-item">
+					<div class="post-list-item-container">
+					 <div class="item-thumb  bg-{{posts.background }}" style="background-image:url('{{posts.background-image }}-300x300');"></div>
+						<a href="{{ posts.url }}">
+							 <div class="item-desc">
+								<p>{{ posts.content | strip_html | strip_newlines | truncate: 75 }}</p>
+							</div>
+						</a>
+						<div class="item-slant reverse-slant  bg-{{ posts.background }}"></div>
+						<div class="item-slant"></div>
+						<div class="item-label">
+							<div class="item-title"><a href="{{ posts.url }}">{{ posts.title }}</a></div>
+							<div class="item-meta clearfix">
+							<div class="item-meta-ico bg-ico-book" style="background: url('../style/images/bg-ico.png') no-repeat;background-size: 40px auto;"></div>
+							 <div class="item-meta-cat">
+								 <a href="/funny">{{ posts.category }}</a>
+								 <a href="/archives#{{ posts.date | date: "%Y"}}" title="访问 {{ posts.date | date: "%Y"}}" data-hover="{{ posts.date | date: "%F %H:%M"}}">{{ posts.date | date: "%F %H:%M"}}</a>
+							</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				 {% endif %}
+		   {% endfor %}
+		</div>
+	</div>
