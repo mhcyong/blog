@@ -1,12 +1,12 @@
 ---
 layout: blog
-technology: true
+funny: true
 background: green
 background-image: https://obdr74yw6.qnssl.com/537f5932ly1fs3f5emtrrj20xr0g3tat.jpg
 date: 2018-06-09 15:13
 title: 微软来了:全球最大同性社交网站Github被微软以75亿美元收购
-category: 技术
-ascription: technology
+category: 有趣
+ascription: funny
 tags:
 - Github
 - 微软
