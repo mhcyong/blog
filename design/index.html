@@ -3,7 +3,6 @@ title: 创意设计
 description: "分享那些值得欣赏的设计和创意"
 ---
 
-  <link href="https://cdn.bootcss.com/highlight.js/9.10.0/styles/xcode.min.css" rel="stylesheet">
        <style>
         body{
             margin:0;padding:0;
@@ -56,7 +55,7 @@ description: "分享那些值得欣赏的设计和创意"
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
-		  {% for posts in site.posts limit:36 %}
+		  {% for posts in site.posts limit:46 %}
 			   {% if posts.design %}
 				<div class="post-list-item">
 					<div class="post-list-item-container">
@@ -86,14 +85,5 @@ description: "分享那些值得欣赏的设计和创意"
 	</div>
 
 <div class="lists-navigator clearfix" style="text-align:center;"> 
-<a href="/search.html" class="index404">双击ctrl OR 前往搜索</a>
+<a href="/search.html" class="index404">前往搜索</a>
 </div>
-	
-<!-- jQuery -->
-<script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
-<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px; opacity: 0.95; background-color: #111111; z-index: 9999;display:none;">
-    <input style="    background: rgba(0,0,0,0.5); border: 2px solid #02ccba; color: #fff;box-shadow: 8px 10px 20px 0 rgba(46,61,73,.15);text-align: center;line-height: 40px;font-size: 12px;font-weight: bold; z-index:99;width: 50%;border-radius: 50px;height: 50px;left:25%;/*FF IE7*/top: 50%;/*FF IE7*/
-	margin-top:-60px!important;margin-top:0px;position:fixed!important;/*FF IE7*/position:absolute;/*IE6*/"type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
-</div>
-<script src="//cdn.bootcss.com/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.js"></script>
-<script src="/search/js/cb-search.js"></script>
