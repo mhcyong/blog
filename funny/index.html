@@ -3,6 +3,55 @@ title: 新鲜有趣
 description: "分享那些年新鲜有趣的事情"
 ---
 
+       <style>
+        body{
+            margin:0;padding:0;
+            font-family: PingFang SC,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+        }
+        a, button.submit {
+            color:#6E7173;
+            text-decoration:none;
+            -webkit-transition:all .1s ease-in;
+            -moz-transition:all .1s ease-in;
+            -o-transition:all .1s ease-in;
+            transition:all .1s ease-in;
+        }
+        a:hover, a:active {
+            color:#6E7173;
+        }
+        .index404 {
+            display: inline-block;
+            white-space: nowrap;
+            cursor: pointer;
+            letter-spacing: 1px;
+            font-size: 14px;
+            -moz-user-select: -moz-none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -o-user-select: none;
+            user-select: none;
+            text-shadow: none;
+            border: 2px solid #02ccba;
+            line-height: 36px;
+            text-align: center;
+            height: 36px;
+            padding: 0 25px;
+            border-radius: 25px;
+            background-color: #fff;
+            color: #7b8993;
+            box-shadow: 8px 10px 20px 0 rgba(46,61,73,.15);
+        }
+        @-webkit-keyframes hue {
+          from {
+            -webkit-filter: hue-rotate(0deg);
+          }
+
+          to {
+            -webkit-filter: hue-rotate(-360deg);
+          }
+        }
+        </style>
+		
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
@@ -34,3 +83,6 @@ description: "分享那些年新鲜有趣的事情"
 		   {% endfor %}
 		</div>
 	</div>
+<div class="lists-navigator clearfix" style="text-align:center;"> 
+	<a href="/search.html" class="index404">前往搜索</a>
+</div>
