@@ -6,7 +6,7 @@ description: "分享那些年新鲜有趣的事情"
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
-		  {% for posts in site.posts %}
+		  {% for posts in site.posts limit:26 %}
 			   {% if posts.funny %}
 				<div class="post-list-item">
 					<div class="post-list-item-container">
