@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/0078N2Nmgy1fraygpshsbj30gq0axdfw.jpg
+background-image: /thumbs/ocr.png
 date: 2018-05-15 10:01
 title: 文字识别OCR工具：天若OCR（PC）
 category: 技术

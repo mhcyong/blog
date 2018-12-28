@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: blue
-background-image: https://obdr74yw6.qnssl.com/follow-fixed.jpg
+background-image: /thumbs/css.jpg
 date: 2018-01-09 16:36
 title: 提高浏览量的特效：侧栏跟随滚动条
 category: 技术

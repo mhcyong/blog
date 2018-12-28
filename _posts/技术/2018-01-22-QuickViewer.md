@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: orange
-background-image: https://obdr74yw6.qnssl.com/2018/01/3571228382.png
+background-image: /thumbs/quickviewer.jpg
 date: 2018-01-22 10:24
 title: 推荐一个看图的软件—QuickViewer
 category: 技术
@@ -26,5 +26,5 @@ QuickViewer是一个图片浏览软件，开大图超快，几十 M 的大图，
 详细介绍及下载地址：[https://kanryu.github.io/quickviewer/][2] 
 
 
-  [1]: https://obdr74yw6.qnssl.com/2018/01/3571228382.png
+  [1]: /thumbs/quickviewer.jpg
   [2]: https://kanryu.github.io/quickviewer/

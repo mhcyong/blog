@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: yellow
-background-image: https://obdr74yw6.qnssl.com/1506671773.jpg
+background-image: /tumbs/localStorage.png
 date: 2018-01-09 16:34
 title: LocalStorage 本地存储解决方案及应用实例
 category: 技术

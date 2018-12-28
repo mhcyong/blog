@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/1506955017.jpg
+background-image: /thumbs/php.png
 date: 2018-01-09 16:17
 title: 正则表达式
 category: 技术

@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/uploads/1804/070239558480.jpg
+background-image: /thumbs/Mac.png
 date: 2018-04-07 08:39
 title: 写给Mac新手的入门指南
 category: 技术

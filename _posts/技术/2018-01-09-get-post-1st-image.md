@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: blue
-background-image: https://obdr74yw6.qnssl.com/php.jpg
+background-image: /thumbs/php.png
 date: 2018-01-09 15:54
 title: PHP获取网站中各文章的第一张图片的代码示例
 category: 技术

@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/excel20180527171534.png
+background-image: /thumbs/Excel.png
 date: 2018-05-27 17:12
 title: 超实用！Excel20秒改好证件照底色
 category: 技术

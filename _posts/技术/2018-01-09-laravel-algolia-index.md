@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/algolia.jpg
+background-image: /thumbs/Laravel.png
 date: 2018-01-09 16:37
 title: Laravel使用algolia的时，只添加一张表的部分字段到索引
 category: 技术

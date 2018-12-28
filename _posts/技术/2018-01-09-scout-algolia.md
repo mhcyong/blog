@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/algolia.jpg
+background-image: /thumbs/php.png
 date: 2018-01-09 16:35
 title: 在 Laravel 5.5 中使用官方扩展包 Scout + Algolia 实现全文搜索
 category: 技术

@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/2018/02/401486379.jpg
+background-image: /thumbs/typecho.png
 date: 2018-03-02 08:30
 title: Typecho中的is函数
 category: 技术

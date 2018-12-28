@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/image/FEnRv5j8yFuhN57kGtdQBCc69YMgSq0knUZwGQes.png
+background-image: /thumbs/Laravel.png
 date: 2018-01-08 18:16
 title: Windows Xampp 安装 Laravel及相关工具
 category: 技术

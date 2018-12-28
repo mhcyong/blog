@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/1507215297.jpg
+background-image: /thumbs/pdf.jpg
 date: 2018-01-09 15:54
 title: 两款在线文本格式转换网站
 category: 技术

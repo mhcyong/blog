@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/coding.jpg
+background-image: /thumbs/codding.png
 date: 2018-01-09 15:54
 title: 使用Git和Coding平台
 category: 技术

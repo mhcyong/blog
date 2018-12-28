@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: orange
-background-image: https://obdr74yw6.qnssl.com/php.jpg
+background-image: /thumbs/php.png
 date: 2018-01-09 16:26
 title: PHP生成八位随机字符串
 category: 技术

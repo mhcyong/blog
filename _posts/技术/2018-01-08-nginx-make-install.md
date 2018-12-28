@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/nginx.jpg
+background-image: /thumbs/nginx.png
 date: 2018-01-08 23:00
 title: Nginx手动安装、增加ssl模块、升级更新、删除等操作
 category: 技术

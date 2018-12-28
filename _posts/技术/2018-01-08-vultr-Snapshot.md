@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/image/kTi9qN8jgjR69nGeakwTrnL4lz8LD2vozYlArrpe.png
+background-image: /thumbs/vultr.png
 date: 2018-01-08 21:44
 title: 解决vultr使用Snapshot快照恢复后没有root密码
 category: 技术
@@ -14,7 +14,7 @@ tags:
 ---
 
 首先你得有一台[vultr](https://www.vultr.com/?ref=7217973)的VPS，然后才可以看本文。
-![vultr](https://obdr74yw6.qnssl.com/image/kTi9qN8jgjR69nGeakwTrnL4lz8LD2vozYlArrpe.png)  
+![vultr](/thumbs/vultr.png)  
 本文适合Ubuntu、Debian系统用户。  
 1、点击[View Console]进入系统登陆界面，点击右上角的CTRL+ALT+DEL按钮，当然你也可以点击 [RESTART] 重启服务器。  
 2、当服务器开始重启时候，按下ESC按钮来到GRUB界面。  

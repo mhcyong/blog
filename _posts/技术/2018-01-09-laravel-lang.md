@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: blue
-background-image: https://obdr74yw6.qnssl.com/laravel5.jpg
+background-image: /thumbs/Laravel.png
 date: 2018-01-09 16:23
 title: Laravel配置多国语言包，中文提示
 category: 技术

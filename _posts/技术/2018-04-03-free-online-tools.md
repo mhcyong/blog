@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/home-2.7f90f1.gif
+background-image: /thumbs/tools.png
 date: 2018-04-03 10:22
 title: 免费在线工具搜集
 category: 技术

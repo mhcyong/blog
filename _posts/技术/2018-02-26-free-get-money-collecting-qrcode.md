@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: blue
-background-image: https://obdr74yw6.qnssl.com/2018/02/2980090842.jpg
+background-image: /thumbs/alipay.png
 date: 2018-02-26 18:34
 title: 如何免费申请商家收钱码?
 category: 技术

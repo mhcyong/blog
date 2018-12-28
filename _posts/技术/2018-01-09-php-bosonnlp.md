@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/1505981853.jpg
+background-image: /thumbs/php.png
 date: 2018-01-09 15:54
 title: PHP利用BosonNLP接口提取关键词
 category: 技术

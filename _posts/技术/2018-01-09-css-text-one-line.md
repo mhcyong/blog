@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: res
-background-image: https://obdr74yw6.qnssl.com/html5-css3.jpg
+background-image: /thumbs/css.png
 date: 2018-01-09 16:35
 title: 用CSS让字体在一行内显示不换行
 category: 技术

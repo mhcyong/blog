@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: red
-background-image: https://obdr74yw6.qnssl.com/1507105547.jpg
+background-image: /thumbs/https.png
 date: 2018-01-09 16:01
 title: 用 Certbot 一键升级你的网站为 Https
 category: 技术

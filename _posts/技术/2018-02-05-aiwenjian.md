@@ -3,7 +3,7 @@ layout: blog
 istop: true
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/aiwenjian.png
+background-image: /thumbs/aiwenjian.png
 date: 2018-02-05 19:17
 title: 爱文件-在线免费下载百度文库文件
 category: 技术
@@ -21,4 +21,4 @@ tags:
 
 
   [1]: http://aiwenjian.com/
-  [2]: https://obdr74yw6.qnssl.com/aiwenjian.png
+  [2]: /thumbs/aiwenjian.png

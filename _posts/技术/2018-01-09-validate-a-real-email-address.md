@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/php.jpg
+background-image: /thumbs/email.jpg
 date: 2018-01-09 16:18
 title: 真正验证一个邮件地址的有效性
 category: 技术

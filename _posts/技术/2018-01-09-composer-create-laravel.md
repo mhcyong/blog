@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: yellow
-background-image: https://obdr74yw6.qnssl.com/laravel5.jpg
+background-image: /thumbs/Laravel.png
 date: 2018-01-09 15:54
 title: Ubuntu下创建Laravel项目
 category: 技术

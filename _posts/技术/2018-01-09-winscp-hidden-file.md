@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/1508077356.jpg
+background-image: /thumbs/winsp.jpg
 date: 2018-01-09 15:29
 title: winscp 查看/显示隐藏文件
 category: 技术

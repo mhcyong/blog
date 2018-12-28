@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/php.jpg
+background-image: /thumbs/ubuntu.png
 date: 2018-01-09 16:19
 title: Ubuntu下安装并配置PHP7+MySQL+Nginx+SSL网站环境
 category: 技术

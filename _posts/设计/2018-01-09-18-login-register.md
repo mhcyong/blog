@@ -2,7 +2,7 @@
 layout: blog
 design: true
 background: red
-background-image: https://obdr74yw6.qnssl.com/18-login-register.jpg
+background-image: /thumbs/login-register.png
 date: 2018-01-09 15:51
 title: 18个创意登录/注册表单设计欣赏
 category: 设计

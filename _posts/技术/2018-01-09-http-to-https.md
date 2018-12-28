@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/1505924714.jpg
+background-image: /thumbs/https.jpg
 date: 2018-01-09 15:54
 title: http跳转到https，并优化SSL
 category: 技术

@@ -2,7 +2,7 @@
 layout: blog
 technology: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/github.jpg
+background-image: /thumbs/Github.png
 date: 2018-01-09 15:54
 title: Github资源 Repository 整理
 category: 技术
