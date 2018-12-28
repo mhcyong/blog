@@ -2,7 +2,7 @@
 layout: blog
 life: true
 background: blue
-background-image: https://obdr74yw6.qnssl.com/gongxiangdanche.jpg
+background-image: /thumbs/xiaomingdanche.jpg
 date: 2018-05-15 10:01
 title: 小鸣单车进入破产清算程序
 category: 生活

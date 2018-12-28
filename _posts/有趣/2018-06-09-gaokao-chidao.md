@@ -2,7 +2,7 @@
 layout: blog
 funny: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/20180705161926.jpg
+background-image: /thumbs/gaokao-chidao.jpg
 date: 2018-05-15 10:01
 title: 抖音上天：考前忙拍抖音，女生考试迟到追悔莫及
 category: 有趣

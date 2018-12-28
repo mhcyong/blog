@@ -2,7 +2,7 @@
 layout: blog
 life: true
 background: blue
-background-image: https://obdr74yw6.qnssl.com/006hHB37ly1fqfo80voikj30c80c8dh0.jpg
+background-image: /thumbs/twelve-Chinese-Zodiac.jpg
 date: 2018-04-18 16:29
 title: 涨知识！十二生肖排序的渊源！
 category: 生活

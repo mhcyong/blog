@@ -2,7 +2,7 @@
 layout: blog
 life: true
 background: red
-background-image: https://obdr74yw6.qnssl.com/like-your-views.png
+background-image: /thumbs/like-your-views.jpg
 date: 2018-04-15 19:01
 title: 你的三观，我很喜欢。 一起共勉啦！
 category: 生活

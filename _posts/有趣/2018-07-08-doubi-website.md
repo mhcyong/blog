@@ -2,7 +2,7 @@
 layout: blog
 funny: true
 background: green
-background-image: https://pangsuan.com/thumbs/doubi-website.jpg
+background-image: /thumbs/doubi-website.jpg
 date: 2018-07-08 14:55
 title: 逗比拯救世界
 category: 有趣

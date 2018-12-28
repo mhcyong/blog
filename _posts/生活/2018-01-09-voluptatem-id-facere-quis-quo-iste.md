@@ -2,7 +2,7 @@
 layout: blog
 life: true
 background: yellow
-background-image: https://obdr74yw6.qnssl.com/1505884721.jpg
+background-image: /thumbs/voluptatem-id-facere-quis-quo-iste.jpg
 date: 2018-01-09 15:49
 category: 生活
 ascription: life
