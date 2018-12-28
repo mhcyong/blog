@@ -2,7 +2,7 @@
 layout: blog
 funny: true
 background: green
-background-image: https://obdr74yw6.qnssl.com/20180626235402.jpg
+background-image: /shenzhen-sanhe-resources-market.jpg
 date: 2018-06-26 23:48
 title: NHK纪录片，深圳三和人才市场
 category: 有趣
