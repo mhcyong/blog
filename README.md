@@ -1,8 +1,8 @@
-`Jekyll Themes`
+`周五有戏`
 ----------
-[中文版帮助文档README](/ChinaREADME.md)
+
 ## `Lightweight`  `Minimalist`  `Jekyll blog`
-### The first step is to click [fork]
+### The first step is to click
 ### The second step is to modify the _config.yml in URL for your domain name
 ### OK all right, it's that simple
 #### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
