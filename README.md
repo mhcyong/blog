@@ -15,12 +15,6 @@
 - [x] Modify _config.yml's links for your menu
 - [x] Modify the _config.yml of paginate for how many pages you want to page
 
-### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+### 1.First step Click
 
 ### 2. modify _config.yml url URL for your domain
-
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [Email](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
