@@ -1,11 +1,11 @@
-`周五有戏`
+`香蕉皮`
 ----------
 
-## `Lightweight`  `Minimalist`  `Jekyll blog`
-### The first step is to click
-### The second step is to modify the _config.yml in URL for your domain name
-### OK all right, it's that simple
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
+## `周五有戏`  `微发现者`  `后花园`
+### 好戏的观看和下载地址
+### 发现的好东西
+### 需要丰富，又不便到处宣扬的
+#### I don't want any copyright also don't need you to donate, Thx 😄
 
 - [x] Automatic generation tag
 - [x] Automatic generation of JSON search
