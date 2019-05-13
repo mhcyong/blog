@@ -1,44 +1,26 @@
-title: 香蕉皮
-description: All about xjpi
+# is a organization repository
+organization: false
 
-url: https://xjpi.net
-theme: donob
+# site title
+title: Blog
 
-per_page: 7
+# github user
+user: mhcyong
 
-# menu
-menu:
-  Archives: /archives/
-  About: /about/
+# issue repository
+repository: blog
 
-default_category: blog
-
-user: xjpi
-repository: xjpi
-
-plugins:
-  - acyort-rss
-  - acyort-archives
-  - acyort-paginator
-
-public_dir: public
-
+# multi-author
 authors:
-  - xjpi
 
-timezone: Asia/Shanghai
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 8#d2a17cecee797f60e358c52c619a3978f49ce3c
 
-language:
+# posts per page
+perpage: 7
 
-line_numbers:
+order: CREATED_AT
 
-order:
-
-token: 5#c21bffc137f44faf7e9c4a84da827f7cc2cfeaa
-
-cache: true
-
-rss: true
-
-archives:
-  per_page: 30
+ignores: "17,13"
