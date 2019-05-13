@@ -1,0 +1,44 @@
+title: 香蕉皮
+description: All about xjpi
+
+url: https://xjpi.net
+theme: donob
+
+per_page: 7
+
+# menu
+menu:
+  Archives: /archives/
+  About: /about/
+
+default_category: blog
+
+user: xjpi
+repository: xjpi
+
+plugins:
+  - acyort-rss
+  - acyort-archives
+  - acyort-paginator
+
+public_dir: public
+
+authors:
+  - xjpi
+
+timezone: Asia/Shanghai
+
+language:
+
+line_numbers:
+
+order:
+
+token: 5#c21bffc137f44faf7e9c4a84da827f7cc2cfeaa
+
+cache: true
+
+rss: true
+
+archives:
+  per_page: 30
