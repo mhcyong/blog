@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+permalink: /v/:title.html
+defaults:
+  - values:
+      layout: "default"
